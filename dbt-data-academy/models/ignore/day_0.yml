@@ -1,0 +1,9 @@
+version: 2
+
+models:
+  - name: day_0
+    tests:
+      - accepted_values:
+          arguments:
+            column_name: ready
+            values: [1]
