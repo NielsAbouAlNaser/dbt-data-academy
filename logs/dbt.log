@@ -1,0 +1,110 @@
+==================== 2026-01-28 13:00:40.717970 | 019c04b1-1773-79a3-a139-533bc4a7987b ====================
+Installing dbt project and profile setup
+13:00:40.762916 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+13:00:40.764495 [info ]: Success Project created successfully!
+13:00:40.764562 [info ]: Info Project name: jaffle_shop
+13:00:40.764582 [info ]: Info Project directory: jaffle_shop
+13:00:40.764618 [info ]: Info Setting up your profile...
+13:00:40.767003 [info ]: Info Creating new profile...
+13:00:44.024313 [error]: dbt1001: Failed to get adapter selection: IO error: read interrupted
+13:00:44.110026 [info ]: 
+==================== Execution Summary =====================
+Finished 'init' with 1 error [3.4s]
+==================== 2026-01-28 13:05:42.852059 | 019c04b5-b3bd-7273-bbc0-7060f1158321 ====================
+Installing dbt project and profile setup
+13:05:42.854999 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+13:05:42.855099 [info ]: Success Project created successfully!
+13:05:42.855108 [info ]: Info Project name: jaffle_shop
+13:05:42.855113 [info ]: Info Project directory: jaffle_shop
+13:05:42.855127 [info ]: Info Setting up your profile...
+13:05:42.855390 [info ]: Info Creating new profile...
+13:08:26.672342 [error]: dbt1001: Failed to get adapter selection: IO error: read interrupted
+13:08:26.803728 [info ]: 
+==================== Execution Summary =====================
+Finished 'init' with 1 error [2m 44s]
+==================== 2026-01-28 13:08:49.492329 | 019c04b8-8cd0-7620-a1c7-0037eb38113b ====================
+Installing dbt project and profile setup
+13:08:49.493369 [info ]: Warning Directory 'jaffle_shop' already exists, using 'jaffle_shop_1' instead
+13:08:49.494697 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+13:08:49.494754 [info ]: Success Project created successfully!
+13:08:49.494775 [info ]: Info Project name: jaffle_shop_1
+13:08:49.494792 [info ]: Info Project directory: jaffle_shop_1
+13:08:49.494799 [info ]: Info Setting up your profile...
+13:08:49.495002 [info ]: Info Creating new profile...
+13:08:53.172798 [error]: dbt1001: Failed to get adapter selection: IO error: read interrupted
+13:08:53.263539 [info ]: 
+==================== Execution Summary =====================
+Finished 'init' with 1 error [3.8s]
+==================== 2026-01-28 13:21:05.542616 | 019c04c3-c7f2-7b71-8287-666de7f80eb3 ====================
+Installing dbt project and profile setup
+13:21:05.575243 [info ]: Warning Directory 'jaffle_shop' already exists, using 'jaffle_shop_2' instead
+13:21:05.583759 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+13:21:05.584513 [info ]: Success Project created successfully!
+13:21:05.584564 [info ]: Info Project name: jaffle_shop_2
+13:21:05.584572 [info ]: Info Project directory: jaffle_shop_2
+13:21:05.584580 [info ]: Info Setting up your profile...
+13:21:05.586527 [info ]: Info Creating new profile...
+13:21:07.443129 [info ]: Found dbt_cloud.yml configuration
+13:21:07.443193 [info ]: Found active project: Jaffle shop (ID: 70471823528891)
+13:21:40.256776 [error]: dbt1001: Failed to get project selection: IO error: read interrupted
+13:21:40.375074 [info ]: 
+==================== Execution Summary =====================
+Finished 'init' with 1 error [34.8s]
+==================== 2026-01-28 13:21:43.152244 | 019c04c4-5aec-7933-ad1f-acfd4435bf45 ====================
+Installing dbt project and profile setup
+13:21:43.152815 [info ]: Warning Directory 'jaffle_shop' already exists, using 'jaffle_shop_3' instead
+13:21:43.163717 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+13:21:43.163829 [info ]: Success Project created successfully!
+13:21:43.163862 [info ]: Info Project name: jaffle_shop_3
+13:21:43.163891 [info ]: Info Project directory: jaffle_shop_3
+13:21:43.163898 [info ]: Info Setting up your profile...
+13:21:43.164127 [info ]: Info Creating new profile...
+13:21:45.781083 [info ]: Found dbt_cloud.yml configuration
+13:21:45.781173 [info ]: Found active project: Jaffle shop (ID: 70471823528891)
+13:22:05.036430 [error]: dbt1001: Failed to get project selection: IO error: read interrupted
+13:22:05.152823 [info ]: 
+==================== Execution Summary =====================
+Finished 'init' with 1 error [22.0s]
+==================== 2026-01-28 13:23:05.278938 | 019c04c5-9ba7-71c2-90fe-8ec012597e55 ====================
+Installing dbt project and profile setup
+13:23:05.317457 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+13:23:05.318702 [info ]: Success Project created successfully!
+13:23:05.318811 [info ]: Info Project name: jaffle_shop
+13:23:05.318862 [info ]: Info Project directory: jaffle_shop
+13:23:05.318914 [info ]: Info Setting up your profile...
+13:23:05.323687 [info ]: Info Creating new profile...
+13:24:11.527107 [info ]: Found dbt_cloud.yml configuration
+13:24:11.527214 [info ]: Found active project: Jaffle shop (ID: 70471823528891)
+13:24:18.362397 [warn ]: dbt1001: Failed to fetch cloud config: Failed to fetch user credentials: error in response: status code 401 Unauthorized
+13:24:18.363175 [info ]: No cloud config found for this adapter/project
+13:24:30.050942 [error]: dbt1001: Failed to get input for host: IO error: read interrupted
+13:24:30.161039 [info ]: 
+==================== Execution Summary =====================
+Finished 'init' with 1 warning and 1 error [1m 25s]
+==================== 2026-01-28 13:25:17.586827 | 019c04c7-a08b-7d80-98ea-4a8451134d0a ====================
+Installing dbt project and profile setup
+13:25:17.589809 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+13:25:17.589918 [info ]: Success Project created successfully!
+13:25:17.589960 [info ]: Info Project name: jaffle_shop
+13:25:17.589969 [info ]: Info Project directory: jaffle_shop
+13:25:17.589990 [info ]: Info Setting up your profile...
+13:25:17.590203 [info ]: Info Creating new profile...
+13:25:19.721209 [info ]: Found dbt_cloud.yml configuration
+13:25:19.721284 [info ]: Found active project: Jaffle shop (ID: 70471823528891)
+13:26:13.677141 [error]: dbt1001: Failed to get project selection: IO error: read interrupted
+13:26:13.809247 [info ]: 
+==================== Execution Summary =====================
+Finished 'init' with 1 error [56.2s]
+==================== 2026-01-28 13:26:19.873861 | 019c04c8-93de-7720-8131-c5f6f669c252 ====================
+Installing dbt project and profile setup
+13:26:19.874936 [info ]: Warning Directory 'jaffle_shop' already exists, using 'jaffle_shop_1' instead
+13:26:19.878574 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+13:26:19.878644 [info ]: Success Project created successfully!
+13:26:19.878653 [info ]: Info Project name: jaffle_shop_1
+13:26:19.878658 [info ]: Info Project directory: jaffle_shop_1
+13:26:19.878663 [info ]: Info Setting up your profile...
+13:26:19.879373 [info ]: Info Creating new profile...
+13:26:35.997670 [error]: dbt1001: Failed to get adapter selection: IO error: read interrupted
+13:26:36.104818 [info ]: 
+==================== Execution Summary =====================
+Finished 'init' with 1 error [16.2s]
